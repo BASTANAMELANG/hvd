@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Birthday Surprise Countdown",
+  "description": "An elegant, interactive birthday surprise website featuring a countdown, beautifully animated hearts and flowers, background music, and a locked gift box that opens on the specified date to reveal a heartfelt letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
